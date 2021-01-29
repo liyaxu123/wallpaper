@@ -83,7 +83,7 @@ npm install
 ```
 
 ## 项目截图
-<img src="https://images.gitee.com/uploads/images/2021/0129/164717_bd75b3de_5335319.jpeg "1.jpg"" style="zoom:25%;" />
+![APP启动页面](https://images.gitee.com/uploads/images/2021/0129/164717_bd75b3de_5335319.jpeg "APP启动页面")
 
 
 
