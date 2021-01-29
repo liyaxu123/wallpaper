@@ -83,16 +83,44 @@ npm install
 ```
 
 ## 项目截图
-![APP启动页面](https://images.gitee.com/uploads/images/2021/0129/164717_bd75b3de_5335319.jpeg)
-![首页](https://images.gitee.com/uploads/images/2021/0129/165755_60e3ecaa_5335319.jpeg "2.jpg")
 
+<img src="C:\Users\小笑残虹\Desktop\1.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013c41ff351d.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013ce9b70093.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013cf0d3ee0e.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013cfa94552c.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013cfa9462c4.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013cfa941989.jpg" style="zoom:25%;" />
 
+<img src="https://www.hualigs.cn/image/6013cfa94983c.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa94ef3b.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa97cf7c.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa9800fb.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa9718f3.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa999f17.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa97d08b.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa97f4e5.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa956811.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa966b06.jpg" style="zoom:25%;" />
+
+<img src="https://www.hualigs.cn/image/6013cfa96a882.jpg" style="zoom:25%;" />
+
+![](https://www.hualigs.cn/image/6013cfa9c3d0c.jpg)
 
 
 
