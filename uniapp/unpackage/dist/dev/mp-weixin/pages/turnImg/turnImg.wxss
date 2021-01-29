@@ -1,0 +1,20 @@
+
+.turnImg.data-v-674c1d14 {
+	height: 100%;
+}
+.moreWrap.data-v-674c1d14 {
+	height: calc(100vh - 104rpx);
+	padding: 20rpx;
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+	grid-template-rows: repeat(3, auto);
+	grid-row-gap: 20rpx;
+	grid-column-gap: 20rpx;
+}
+.moreWrap.data-v-674c1d14 {
+	height: 100vh;
+}
+.turncard.data-v-674c1d14 {
+	height: 100%;
+}
+

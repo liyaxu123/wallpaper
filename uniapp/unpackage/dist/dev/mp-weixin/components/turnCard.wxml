@@ -1,0 +1,1 @@
+<view class="turnCard data-v-aae30230"><view class="card-box data-v-aae30230"><view class="{{['card data-v-aae30230',(isOpen)?'open':'']}}"><view data-event-opts="{{[['tap',[['openCard',['$event']]]]]}}" class="back cardView data-v-aae30230" bindtap="__e"></view><view class="front cardView data-v-aae30230"><slot></slot></view></view></view></view>

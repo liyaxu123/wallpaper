@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/classify/classify",
+    "pages/my/my",
+    "pages/detail/detail",
+    "pages/more/more",
+    "pages/demotantan/demotantan",
+    "pages/demozhihu/demozhihu",
+    "pages/uploadImg/uploadImg",
+    "pages/turnImg/turnImg",
+    "uview-ui/components/u-avatar-cropper/u-avatar-cropper"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "壁纸APP",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#C7ACEF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home2.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/classify/classify",
+        "iconPath": "static/classify.png",
+        "selectedIconPath": "static/classify2.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/my.png",
+        "selectedIconPath": "static/my2.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

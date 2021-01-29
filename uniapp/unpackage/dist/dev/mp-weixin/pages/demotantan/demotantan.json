@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#A0B8EA",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "ezflycard": "/components/ezflycard.vue"
+  }
+}

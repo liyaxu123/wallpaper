@@ -1,0 +1,10 @@
+{
+  "navigationBarBackgroundColor": "#A0B8EA",
+  "navigationBarTextStyle": "white",
+  "onReachBottomDistance": 30,
+  "usingComponents": {
+    "u-lazy-load": "/uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-divider": "/uview-ui/components/u-divider/u-divider",
+    "u-back-top": "/uview-ui/components/u-back-top/u-back-top"
+  }
+}

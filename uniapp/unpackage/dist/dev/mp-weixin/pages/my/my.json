@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#A0B8EA",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "我的",
+  "usingComponents": {
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-modal": "/uview-ui/components/u-modal/u-modal"
+  }
+}

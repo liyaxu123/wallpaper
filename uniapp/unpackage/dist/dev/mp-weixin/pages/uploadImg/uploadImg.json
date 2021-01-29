@@ -1,0 +1,14 @@
+{
+  "navigationBarBackgroundColor": "#A0B8EA",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "上传壁纸",
+  "usingComponents": {
+    "u-dropdown": "/uview-ui/components/u-dropdown/u-dropdown",
+    "u-dropdown-item": "/uview-ui/components/u-dropdown-item/u-dropdown-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips"
+  }
+}

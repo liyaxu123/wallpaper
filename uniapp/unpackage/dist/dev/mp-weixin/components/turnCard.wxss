@@ -1,0 +1,59 @@
+
+.turnCard.data-v-aae30230 {
+	height: 100%;
+}
+.card-box.data-v-aae30230 {
+	width: 100%;
+	height: 100%;
+	max-width: 310rpx;
+	/* 景深 */
+	-webkit-perspective: 900rpx;
+	        perspective: 900rpx;
+}
+.card.data-v-aae30230 {
+	height: 100%;
+	/* 开启3D */
+	-webkit-transform-style: preserve-3d;
+	        transform-style: preserve-3d;
+	position: relative;
+	-webkit-transition: all .8s ease;
+	transition: all .8s ease;
+}
+.open.data-v-aae30230 {
+	-webkit-transform: rotateY(180deg);
+	        transform: rotateY(180deg);
+}
+.cardView.data-v-aae30230 {
+	height: 100%;
+	position: absolute;
+	border-radius: 30rpx;
+	box-shadow: 2rpx 4rpx 8rpx 0rpx rgb(14, 13, 13);
+	background-color: #fff;
+	text-align: center;
+	font-family: cursive;
+	-webkit-backface-visibility: hidden;
+	        backface-visibility: hidden;
+	overflow: hidden;
+}
+.front.data-v-aae30230,
+.back.data-v-aae30230 {
+	width: 100%;
+}
+
+/* 正面 */
+.front.data-v-aae30230 {
+	z-index: 1;
+	-webkit-transform: rotateY(180deg);
+	        transform: rotateY(180deg);
+	position: relative;
+}
+
+/* 背面 */
+.back.data-v-aae30230 {
+	background-image: -webkit-linear-gradient(bottom, #a8edea 0%, #fed6e3 100%);
+	background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+	z-index: 2;
+	-webkit-transform: rotateY(0deg);
+	        transform: rotateY(0deg);
+}
+

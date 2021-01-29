@@ -1,0 +1,15 @@
+{
+  "navigationBarBackgroundColor": "#A0B8EA",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "u-swiper": "/uview-ui/components/u-swiper/u-swiper",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-no-network": "/uview-ui/components/u-no-network/u-no-network",
+    "img-container": "/components/ImgContainer"
+  }
+}

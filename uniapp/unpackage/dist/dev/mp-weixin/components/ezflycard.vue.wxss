@@ -1,0 +1,16 @@
+
+.card.data-v-3d64db1b {
+	position: absolute;
+	overflow: hidden;
+}
+.card.boderEffect.data-v-3d64db1b {
+	border: 1px solid #ccc;
+}
+.card.shadowEffect.data-v-3d64db1b {
+	box-shadow: 0px 4px 20px rgba(0, 0, 0, .3);
+}
+.card.animation.data-v-3d64db1b {
+	-webkit-transition: opacity .4s ease-out, left .4s ease-out, top .4s ease-out, width .4s ease-out, height .4s ease-out;
+	transition: opacity .4s ease-out, left .4s ease-out, top .4s ease-out, width .4s ease-out, height .4s ease-out;
+}
+

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-lazy-load": "/uview-ui/components/u-lazy-load/u-lazy-load"
+  },
+  "component": true
+}

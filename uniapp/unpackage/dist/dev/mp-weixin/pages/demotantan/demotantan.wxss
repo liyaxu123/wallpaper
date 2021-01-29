@@ -1,0 +1,14 @@
+
+page.data-v-9c706134 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+view.data-v-9c706134 {
+	box-sizing: border-box;
+}
+.tantanCard.data-v-9c706134 {
+	width: 100%;
+	height: 100%;
+}
+

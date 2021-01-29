@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* uni.scss */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.u-dropdown.data-v-0340bb60 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: 100%;
+  position: relative;
+}
+.u-dropdown__menu.data-v-0340bb60 {
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+
+  position: relative;
+  z-index: 11;
+  height: 80rpx;
+}
+.u-dropdown__menu__item.data-v-0340bb60 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.u-dropdown__menu__item__text.data-v-0340bb60 {
+  font-size: 28rpx;
+  color: #606266;
+}
+.u-dropdown__menu__item__arrow.data-v-0340bb60 {
+  margin-left: 6rpx;
+  -webkit-transition: -webkit-transform .3s;
+  transition: -webkit-transform .3s;
+  transition: transform .3s;
+  transition: transform .3s, -webkit-transform .3s;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+          flex-direction: row;
+}
+.u-dropdown__menu__item__arrow--rotate.data-v-0340bb60 {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.u-dropdown__content.data-v-0340bb60 {
+  position: absolute;
+  z-index: 8;
+  width: 100%;
+  left: 0px;
+  bottom: 0;
+  overflow: hidden;
+}
+.u-dropdown__content__mask.data-v-0340bb60 {
+  position: absolute;
+  z-index: 9;
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+.u-dropdown__content__popup.data-v-0340bb60 {
+  position: relative;
+  z-index: 10;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  -webkit-transform: translate3D(0, -100%, 0);
+          transform: translate3D(0, -100%, 0);
+  overflow: hidden;
+}
+

@@ -1,0 +1,84 @@
+
+.detail.data-v-3e159eb4 {
+	width: 100%;
+	height: 100vh;
+	background-color: #000000;
+	position: relative;
+}
+.imgContainer.data-v-3e159eb4 {
+	width: 100%;
+	height: 100%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.img.data-v-3e159eb4 {
+	-webkit-box-reflect: below 0 -webkit-linear-gradient(transparent 40%, rgba(0, 0, 0, .4));
+}
+.toolBar.data-v-3e159eb4 {
+	width: 90%;
+	height: 100rpx;
+	position: fixed;
+	left: 50%;
+	bottom: 5%;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	color: white;
+	font-size: 28rpx;
+	background: rgba(74, 74, 74, 0.55);
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+	backdrop-filter: blur(4.5px);
+	-webkit-backdrop-filter: blur(4.5px);
+	border-radius: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.18);
+	box-shadow: 2px 2px 5px #333333;
+}
+.toolBar-item.data-v-3e159eb4 {
+	text-align: center;
+}
+.toolBar-item.data-v-3e159eb4:active,
+.shareBtn.data-v-3e159eb4:active {
+	color: #00ffff;
+}
+.shareBtn.data-v-3e159eb4 {
+	border: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+	font-size: 28rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.progress.data-v-3e159eb4 {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	        transform: translateX(-50%) translateY(-50%);
+}
+

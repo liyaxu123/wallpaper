@@ -1,0 +1,16 @@
+
+.more.data-v-5796f226 {
+	/* background-color: #000000; */
+}
+.moreWrap.data-v-5796f226 {
+	padding: 10rpx;
+	display: grid;
+	grid-template-columns: repeat(3, auto);
+	grid-template-rows: repeat(10, auto);
+	grid-row-gap: 10rpx;
+	grid-column-gap: 10rpx;
+}
+.item.data-v-5796f226 {
+	/* background-color: pink; */
+}
+

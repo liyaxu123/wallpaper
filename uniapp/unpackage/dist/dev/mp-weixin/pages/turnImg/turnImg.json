@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#A0B8EA",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "翻一翻",
+  "usingComponents": {
+    "turn-card": "/components/turnCard"
+  }
+}

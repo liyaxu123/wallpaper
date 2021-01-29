@@ -1,0 +1,1 @@
+{"version":3,"sources":["uni-app:///main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,uH;AACAA,UAAU,CAACC,qBAAD,CAAV,C","file":"components/ImgContainer/ImgContainer.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './components/ImgContainer/ImgContainer.vue'\ncreatePage(Page)"],"sourceRoot":""}

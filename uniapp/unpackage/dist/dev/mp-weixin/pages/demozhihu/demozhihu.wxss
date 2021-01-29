@@ -1,0 +1,48 @@
+
+page.data-v-5e8a6092 {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+view.data-v-5e8a6092 {
+	box-sizing: border-box;
+}
+.zhihuCard.data-v-5e8a6092 {
+	padding: 10px;
+	width: 100%;
+	height: 100%;
+}
+.zhihuCard.data-v-5e8a6092:nth-child(1) {
+	font-size: 18px;
+}
+.zhihuCard>view.data-v-5e8a6092:nth-child(2) {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	bottom: 10px;
+	padding: 0px 10px;
+}
+.zhihuCard>view:nth-child(2)>view.data-v-5e8a6092:nth-child(1) {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	font-size: 14px;
+	color: #666;
+}
+.zhihuCard>view:nth-child(2)>view.data-v-5e8a6092:nth-child(2) {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.zhihuCard>view:nth-child(2)>view:nth-child(2)>button.data-v-5e8a6092:nth-child(2) {
+	margin-left: 5px;
+}
+button.data-v-5e8a6092 {
+	height: 24px;
+	line-height: 24px;
+	font-size: 12px;
+}
+
