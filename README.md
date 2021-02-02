@@ -4,6 +4,9 @@
 
 这是一个全栈开发的壁纸APP，前端使用uniapp开发，后端使用nodeJS Koa2开发，数据存储在MySQL数据库中，接口已经部署在我的服务器，亲测应用可以打包为APP、微信小程序，其他小程序并没有测试。
 
+## 预览体验
+![体验](https://images.gitee.com/uploads/images/2021/0202/105233_995bc009_5335319.png "预览.png")
+
 ##  软件架构
 
 前端框架：uniapp
