@@ -7,6 +7,8 @@
 ## 预览体验
 ![体验](https://images.gitee.com/uploads/images/2021/0202/105233_995bc009_5335319.png "预览.png")
 
+![imgs小程序体验](https://user-images.githubusercontent.com/55610041/125717429-2262482d-be0b-4b45-8242-b9a6955ed790.jpg)
+
 ##  软件架构
 
 前端框架：uniapp
